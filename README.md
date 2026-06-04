@@ -8,7 +8,7 @@ Linux, Managed Hosting, Cloudflare, DNS, Email, Astro, Angular, Symfony, TypeScr
 
 ---
 
-### Projects
+### Side projects (vibe-coded)
 
 #### Email & DNS
 - [dmarc-validator](https://dmarc-validator.mikepage.deno.net)
