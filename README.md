@@ -2,7 +2,7 @@
 
 Software Engineer — Infrastructure, based in Middelburg, Netherlands.
 
-Linux, Managed Hosting, Symfony, Angular, TypeScript, Tailwind, Cloudflare Workers, DNS, Email
+Linux, Managed Hosting, Cloudflare, DNS, Email, Astro, Angular, Symfony, TypeScript, PHP
 
 🌐 [mikepage.nl](https://mikepage.nl) · 💼 [LinkedIn](https://www.linkedin.com/in/mikepagenl/)
 
