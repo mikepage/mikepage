@@ -2,13 +2,13 @@
 
 Software Engineer — Infrastructure, based in Middelburg, Netherlands.
 
-Linux, Managed Hosting, Cloudflare, DNS, Email, Astro, Angular, Symfony, TypeScript, PHP
+Linux, Managed Hosting, VPS, Docker, Symfony, Angular, TypeScript, Tailwind, Deno, Fresh, Cloudflare Workers/Containers/DNS, Email Deliverability (DKIM, DMARC, SPF).
 
 🌐 [mikepage.nl](https://mikepage.nl) · 💼 [LinkedIn](https://www.linkedin.com/in/mikepagenl/)
 
 ---
 
-### Side projects (vibe-coded)
+### Projects
 
 #### Email & DNS
 - [dmarc-validator](https://dmarc-validator.mikepage.deno.net)
@@ -20,8 +20,12 @@ Linux, Managed Hosting, Cloudflare, DNS, Email, Astro, Angular, Symfony, TypeScr
 - [rdap-lookup](https://rdap-lookup.mikepage.deno.net)
 
 #### Network
+- [cloudflare-network-monitor](https://cloudflare-network-monitor.mikepage.deno.net)
 - [ipv6-utils](https://ipv6-utils.mikepage.deno.net)
 - [test-ipv4-ipv6-is-eq](https://test-ipv4-ipv6-is-eq.mikepage.deno.net)
+
+#### Security
+- [cloakscan](https://cloakscan.mikepage.deno.net)
 
 #### Web utilities
 - [browserinfo](https://browserinfo.mikepage.deno.net)
