@@ -30,5 +30,6 @@ Linux, Managed Hosting, VPS, Docker, Symfony, Angular, TypeScript, Tailwind, Den
 #### Web utilities
 - [browserinfo](https://browserinfo.mikepage.deno.net)
 - [csv-import-formatter](https://csv-import-formatter.mikepage.deno.net)
+- [external-link-scanner](https://external-link-scanner.mikepage.deno.net)
 - [intl-tel-validate](https://intl-tel-validate.mikepage.deno.net)
 - [listdiff](https://listdiff.mikepage.deno.net)
