@@ -1,23 +1,15 @@
-## Mike Pagé
+## Mike Pagé 🦉
 
-Software Engineer — Infrastructure, based in Middelburg, Netherlands.
+Software Engineer — Infrastructure, based in Middelburg, Netherlands. Resident night owl: most of what you'll find here was built after dark.
 
 🌐 [mikepage.nl](https://mikepage.nl) · 💼 [LinkedIn](https://www.linkedin.com/in/mikepagenl/)
 
 ---
 
-### Projects
+### What I'm building
 
-#### Email & DNS
-- [dmarc-validator](https://dmarc-validator.mikepage.deno.net)
-- [dns-lookup](https://dns-lookup.mikepage.deno.net)
-- [dns-monitor](https://dns-monitor.mikepage.deno.net)
-- [smtp-submission-test](https://smtp-submission-test.mikepage.deno.net)
-- [spf-validator](https://spf-validator.mikepage.deno.net)
-- [rdap-lookup](https://rdap-lookup.mikepage.deno.net)
+**[mikepage.nl](https://mikepage.nl)** — a starry-night site about building for the **Cloudflare Developer Platform**: Workers, Durable Objects, D1, R2, Queues and friends, with fun examples that run live on the site's own Worker. Built with [Hono](https://hono.dev) — server-side JSX, no client framework, no bundler.
 
-#### Network
-- [ipv6-utils](https://ipv6-utils.mikepage.deno.net)
+**Working with agents** — I build alongside Claude (Claude Code) as a daily driver: agent-authored Workers, project skills that teach the agent a codebase's rules, and Cloudflare's agent tooling. The site itself is agent-built, [source included](https://github.com/mikepage/mikepage-nl).
 
-#### Web utilities
-- [browserinfo](https://browserinfo.mikepage.deno.net)
+My old collection of email, DNS and network utilities is migrating from Deno Deploy onto the Cloudflare Worker, one post at a time — watch [mikepage.nl](https://mikepage.nl).
