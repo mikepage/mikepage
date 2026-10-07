@@ -1,6 +1,6 @@
 ## Mike Pagé 🦉
 
-Software Engineer — Infrastructure, based in Middelburg, Netherlands. Resident night owl: most of what you'll find here was built after dark.
+⚡ Cloudflare Workers, Hono, Effect TS, Drizzle, Typescript, Angular
 
 🌐 [mikepage.nl](https://mikepage.nl) · 🧪 [tools.mikepage.nl](https://tools.mikepage.nl) · 💼 [LinkedIn](https://www.linkedin.com/in/mikepagenl/)
 
