@@ -24,7 +24,3 @@
 ### Experiments
 
 **[tools.mikepage.nl](https://tools.mikepage.nl)** is where the experiments live. Small DNS, email and network utilities, each one a live example of a Cloudflare Workers pattern. Every result has a shareable URL, and the ones with a JSON API are also tools on an MCP server.
-
-### Working with agents
-
-I build alongside Claude Code as a daily driver: agent-authored Workers, project skills that teach the agent a codebase's rules, and CLIs and MCP servers to deploy and debug from the same session. The blog runs on [EmDash](https://github.com/emdash-cms/emdash), an Astro CMS on Workers, D1 and R2, and it was agent-built too.
