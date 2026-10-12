@@ -31,10 +31,6 @@
 
 **[Flarestack](https://github.com/mikepage/flarestack)** is a batteries-included framework for full-stack apps that run on your own Cloudflare account. Auth, D1, files, jobs, mail, realtime, an admin and an MCP server for agents, deployed with one command.
 
-<br clear="left">
-
-**[EmDash](https://emdashcms.com)** is the Astro CMS on Workers, D1 and R2 that runs my blog. I write about [what 1.0 means for agentic development](https://mikepage.nl/posts/emdash-1-0-agentic-development).
-
 ### Experiments
 
 **[tools.mikepage.nl](https://tools.mikepage.nl)** is where the experiments live. Small DNS, email and network utilities, each one a live example of a Cloudflare Workers pattern. Every result has a shareable URL, and the ones with a JSON API are also tools on an MCP server.
