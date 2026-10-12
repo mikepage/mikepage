@@ -1,6 +1,6 @@
 ## Mike Pagé 🦉
 
-⚡ Cloudflare Workers, Hono, Effect TS, Drizzle, Typescript, Angular
+⚡ Cloudflare Workers, Hono, Drizzle, Typescript, Angular
 
 🌐 [mikepage.nl](https://mikepage.nl) · 🧪 [tools.mikepage.nl](https://tools.mikepage.nl) · 💼 [LinkedIn](https://www.linkedin.com/in/mikepagenl/)
 
