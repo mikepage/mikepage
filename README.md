@@ -12,14 +12,28 @@
 
 #### Latest posts
 
+- **[Cloudflare Workers turn a failed stream into a 200](https://mikepage.nl/posts/workerd-failed-stream-200)**
+  When a streamed response breaks halfway, the client still gets a truncated 200. A workaround, and when to use it.
+- **[What made Deno great, and what replaces it](https://mikepage.nl/posts/what-made-deno-great)**
+  The Deno team joined Cloudflare. What Deno's built-in tooling gave us, and how much of it the platform already covers.
+- **[The Deno examples, on Workers](https://mikepage.nl/posts/deno-examples-on-workers)**
+  All 57 Deno examples rewritten as plain Cloudflare Workers, using web APIs, bindings and Deno's std library. Each one is tested.
+- **[Doctrine to Drizzle: losing the Unit of Work is the upgrade](https://mikepage.nl/posts/doctrine-to-drizzle-without-unit-of-work)**
+  Porting a Symfony backend to Drizzle, the best part was losing the Unit of Work. Every write is now visible code.
 - **[cf is a Cloudflare CLI written for the agent](https://mikepage.nl/posts/cloudflare-cf-cli)**
-  Cloudflare's new cf CLI covers the whole API, speaks JSON by default and tells agents how to find commands. That makes the MCP server in Cloudflare's Claude Code plugin redundant.
-- **[EmDash 1.0 and agentic development](https://mikepage.nl/posts/emdash-1-0-agentic-development)**
-  What 1.0 changes, the three ways an agent can drive an EmDash site (skills, CLI, MCP), how to upgrade, and where it still falls short.
-- **[A Symfony-style backend without the infrastructure](https://mikepage.nl/posts/backend-developer-moves-to-cloudflare)**
-  We rebuilt a Symfony backend on Workers with Hono and Drizzle. The app design stayed. The infrastructure mostly disappeared.
+  Cloudflare's new cf CLI covers the whole API, speaks JSON by default and tells agents how to find commands.
 
 → [All posts](https://mikepage.nl/posts) · [RSS](https://mikepage.nl/rss.xml)
+
+### Building
+
+<img src="https://raw.githubusercontent.com/mikepage/flarestack/main/assets/logo.svg" alt="Flarestack logo" width="48" height="48" align="left">
+
+**[Flarestack](https://github.com/mikepage/flarestack)** is a batteries-included framework for full-stack apps that run on your own Cloudflare account. Auth, D1, files, jobs, mail, realtime, an admin and an MCP server for agents, deployed with one command.
+
+<br clear="left">
+
+**[EmDash](https://emdashcms.com)** is the Astro CMS on Workers, D1 and R2 that runs my blog. I write about [what 1.0 means for agentic development](https://mikepage.nl/posts/emdash-1-0-agentic-development).
 
 ### Experiments
 
