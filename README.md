@@ -2,7 +2,7 @@
 
 ⚡ Cloudflare Workers, Hono, Drizzle, Typescript, Angular
 
-🌐 [mikepage.nl](https://mikepage.nl) · 🧪 [tools.mikepage.nl](https://tools.mikepage.nl) · 💼 [LinkedIn](https://www.linkedin.com/in/mikepagenl/)
+🌐 [mikepage.nl](https://mikepage.nl) · 🧪 [tools.mikepage.workers.dev](https://tools.mikepage.workers.dev) · 💼 [LinkedIn](https://www.linkedin.com/in/mikepagenl/)
 
 ---
 
@@ -33,4 +33,4 @@
 
 ### Experiments
 
-**[tools.mikepage.nl](https://tools.mikepage.nl)** is where the experiments live. Small DNS, email and network utilities, each one a live example of a Cloudflare Workers pattern. Every result has a shareable URL, and the ones with a JSON API are also tools on an MCP server.
+**[tools.mikepage.workers.dev](https://tools.mikepage.workers.dev)** is where the experiments live. Small DNS, email and network utilities, each one a live example of a Cloudflare Workers pattern. Every result has a shareable URL, and the ones with a JSON API are also tools on an MCP server.
