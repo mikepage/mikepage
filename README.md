@@ -12,7 +12,7 @@
 
 #### Latest posts
 
-- **[Cloudflare's edge has almost no hypervisors](https://mikepage.nl/posts/cloudflare-edge-no-hypervisors)**
+- **[Cloudflare replaced the VM with a browser tab](https://mikepage.nl/posts/cloudflare-edge-no-hypervisors)**
   330 cities on bare-metal Debian, every server runs every service, and customer code runs in V8 isolates instead of VMs.
 - **[CVE 9.2 in a language that runs a lot of the web](https://mikepage.nl/posts/cve-9-2-in-a-language-that-runs-the-web)**
   What a CVSS score says, what it leaves out, and how this year's big bugs compare.
