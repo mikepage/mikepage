@@ -12,16 +12,16 @@
 
 #### Latest posts
 
-- **[Cloudflare Workers turn a failed stream into a 200](https://mikepage.nl/posts/workerd-failed-stream-200)**
-  When a streamed response breaks halfway, the client still gets a truncated 200. A workaround, and when to use it.
+- **[State is the elephant in the room](https://mikepage.nl/posts/stateless-scales-state-doesnt)**
+  Web servers scale by adding copies. Databases don't. Why the stateful half of a stack is where the hard problems live.
+- **[Cloudflare's edge has almost no hypervisors](https://mikepage.nl/posts/cloudflare-edge-no-hypervisors)**
+  330 cities on bare-metal Debian, every server runs every service, and customer code runs in V8 isolates instead of VMs.
+- **[CVE 9.2 in a language that runs a lot of the web](https://mikepage.nl/posts/cve-9-2-in-a-language-that-runs-the-web)**
+  What a CVSS score says, what it leaves out, and how this year's big bugs compare.
 - **[What made Deno great, and what replaces it](https://mikepage.nl/posts/what-made-deno-great)**
   The Deno team joined Cloudflare. What Deno's built-in tooling gave us, and how much of it the platform already covers.
-- **[The Deno examples, on Workers](https://mikepage.nl/posts/deno-examples-on-workers)**
-  All 57 Deno examples rewritten as plain Cloudflare Workers, using web APIs, bindings and Deno's std library. Each one is tested.
 - **[Doctrine to Drizzle: losing the Unit of Work is the upgrade](https://mikepage.nl/posts/doctrine-to-drizzle-without-unit-of-work)**
   Porting a Symfony backend to Drizzle, the best part was losing the Unit of Work. Every write is now visible code.
-- **[cf is a Cloudflare CLI written for the agent](https://mikepage.nl/posts/cloudflare-cf-cli)**
-  Cloudflare's new cf CLI covers the whole API, speaks JSON by default and tells agents how to find commands.
 
 → [All posts](https://mikepage.nl/posts) · [RSS](https://mikepage.nl/rss.xml)
 
